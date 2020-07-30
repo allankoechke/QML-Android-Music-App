@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/delegates/MusicDelegate.qml</file>
+        <file>qml/components/AppIcon.qml</file>
+        <file>qml/components/RoundProgressBar.qml</file>
+        <file>qml/main.qml</file>
+        <file>assets/fonts/fontawesome.otf</file>
+        <file>qml/views/PlaylistView.qml</file>
+        <file>qml/views/PlayingView.qml</file>
+        <file>qml/components/TopNavBar.qml</file>
+        <file>qml/components/MusicDelegateMenuPopup.qml</file>
+        <file>qml/components/MenuPopup.qml</file>
+    </qresource>
+</RCC>
